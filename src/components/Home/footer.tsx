@@ -53,7 +53,7 @@ export function Footer() {
               </li>
               <li>
                 <a href="#" className="hover:text-[#4679b5]">
-                  Teaching Resource's
+                  Teaching Resource&apos;s
                 </a>
               </li>
             </ul>
