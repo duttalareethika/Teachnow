@@ -587,9 +587,14 @@ function FoundingInfoForm() {
     </div>
   )
 }
+type User = {
+  id: string
+  name: string
+  email: string
+  status: "Open" | "Closed"
+}
 
-/* ---------------- Users Table ---------------- */
-function UsersTable({ users }: { users: any[] }) {
+function UsersTable({ users }: { users: User[] }) {
   return (
     <div className="bg-white rounded-lg border border-[#d8d8d8]">
       <div className="flex items-center justify-between p-6 border-b border-[#d8d8d8]">
