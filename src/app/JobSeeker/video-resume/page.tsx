@@ -31,7 +31,7 @@ export default function TeachnowDashboard() {
                                 </div>
                                 <h2 className="text-3xl font-semibold text-[#447d9b] mb-4">Create your Video Resume</h2>
                                 <p className="text-[#737791] text-lg max-w-md mx-auto">
-                                    We'll need this access to record your video and record your video within 02:30 Min.
+                                    We&apos;ll need this access to record your video and record your video within 02:30 Min.
                                 </p>
                             </div>
                         </div>
