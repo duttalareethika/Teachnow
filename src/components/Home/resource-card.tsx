@@ -76,7 +76,7 @@ export function ResourceCard() {
 
           {/* What's included section */}
           <div className="bg-[#f6f6f6] rounded-lg p-6">
-            <h3 className="text-lg font-semibold text-[#1e2d42] mb-4">What's included</h3>
+            <h3 className="text-lg font-semibold text-[#1e2d42] mb-4">What&apos;s included</h3>
             <div className="space-y-3">
               <div className="flex justify-between">
                 <span className="text-[#505050]">Total Pages</span>
